@@ -1,0 +1,13 @@
+# Default ignored files
+data\PlantVillage/
+model/1/
+model/2/
+model/plant-leaves-disease-classifier.hdf5
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+data/

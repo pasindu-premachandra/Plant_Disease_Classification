@@ -1,0 +1,8 @@
+To start docker container:
+docker run -it -v E:\Projects\Plant_Disease_Classification\model:/model -p 8605:8605 --entrypoint /bin/bash tensorflow/serving
+
+To serve only latest model:
+tensorflow_model_server --rest_api_port=8605 --model_name=leaf_classifier --model_base_path=/model/
+
+To serve models using model config file:
+tensorflow_model_server --rest_api_port=8605  --allow_version_labels_for_unavailable_models --model_config_file=/model/model.config
