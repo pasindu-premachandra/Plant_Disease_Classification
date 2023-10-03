@@ -6,7 +6,8 @@ A web app that uses deep learning to classify plant diseases, helping farmers to
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot_1](https://github.com/pasindu-premachandra/Plant_Disease_Classification/assets/54570205/a9dc5660-599e-41fa-b2f8-8f3c36b53d3e)
+![Screenshot_2](https://github.com/pasindu-premachandra/Plant_Disease_Classification/assets/54570205/a5f3d134-a753-4f9f-a2d5-a97a6c90269e)
 
 
 ## Technology stack:
