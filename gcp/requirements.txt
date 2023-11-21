@@ -1,0 +1,6 @@
+numpy==1.24.3
+Pillow==9.4.0
+protobuf==4.25.0
+tensorflow
+tensorflow_intel
+google-cloud-storage==1.16.1
